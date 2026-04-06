@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "ieee-format-checker": {
+      "source": "6770292221/ieee-skills",
+      "sourceType": "github",
+      "computedHash": "e4a737362d5bdebc0516007aa4bee0724e39274625504899c37756e7e0d629f5"
+    },
+    "paper-reviewer": {
+      "source": "6770292221/ieee-skills",
+      "sourceType": "github",
+      "computedHash": "63995f7a09aff043747b66c894288320fe89dff398594dcd2dc429cffe98837e"
+    }
+  }
+}
